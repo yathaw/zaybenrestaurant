@@ -1,6 +1,6 @@
 # ZayBen Restaurant (Pure PHP)
 
-<a href="http://zaybannrestaurant.yathawmyatnoe.com/" _target> View Demo </a>
+<a href="http://zaybannrestaurant.yathawmyatnoe.com/" target="_blank"> View Demo </a>
 
 
 <h3> Home Page </h3>
