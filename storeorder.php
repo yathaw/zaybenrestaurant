@@ -23,7 +23,6 @@
 
 	$status = "Order";
 
-	// var_dump($cartarr);die();
 
 
 	foreach ($cartarr as $key => $value) 
